@@ -1,0 +1,4 @@
+
+
+Sources : https://towardsdatascience.com/neural-machine-translation-with-python-c2f0a34f7dd
+          https://github.com/LaurentVeyssier/Machine-translation-English-French-with-Deep-neural-Network
