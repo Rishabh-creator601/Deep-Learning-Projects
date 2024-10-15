@@ -1,0 +1,1 @@
+Confidence : 0.4  ClassName : truck
