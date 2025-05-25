@@ -1,6 +1,0 @@
-1. 15 second Recordings of anything entering the frame
-2. ⁠sending an alarm message
-3. ⁠storing the video in a dashboard
-4. ⁠guessing the type of thing that comes (ie : animal or human) and maybe guess the age range
-5. ⁠face detection to differentiate home owners to others
-c
